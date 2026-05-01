@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("project :  student performance/data.txt", sep=",")
+df = pd.read_csv("data.txt", sep=",")
 
 print(df)
 
